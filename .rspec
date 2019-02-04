@@ -2,6 +2,6 @@
 --format documentation
 --require spec_helper
 
-def parrot("sqwak!")
-
+def parrot("Squwak!")
+  puts "Squwak!"
 end

@@ -5,7 +5,3 @@
 def parrot(phrase = "Squwak!")
   puts phrase
 end
-
-def parrot(phrase)
-  
-end

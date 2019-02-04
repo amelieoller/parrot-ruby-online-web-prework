@@ -3,5 +3,5 @@
 --require spec_helper
 
 def parrot(phrase = "Squwak!")
-  puts phrase
+  puts 
 end

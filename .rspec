@@ -3,7 +3,7 @@
 --require spec_helper
 
 def parrot(phrase = "Squwak!")
-  puts "Squwak!"
+  puts phrase
 end
 
 def parrot(phrase)
